@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.98f23760.css",
+    "main.js": "./static/js/main.3eed37df.js",
+    "static/media/wallpaper2.jpg": "./static/media/wallpaper2.508248a3b23ce155e840.jpg",
+    "static/media/photos.jpg": "./static/media/photos.15508566db3fdb7e76cb.jpg",
+    "static/media/folder.svg": "./static/media/folder.423c6e14915920b93e6296880be34c3e.svg",
+    "static/media/browser.png": "./static/media/browser.55a93cba06f60af51b26.png",
+    "static/media/notes.png": "./static/media/notes.9183b5faae106dfc40d9.png",
+    "static/media/messages.png": "./static/media/messages.0683f60971e2cd75ebf7.png",
+    "static/media/linkedin.png": "./static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/apple.svg": "./static/media/apple.68d3c57a3cc5be423cabc22f1d39ac02.svg",
+    "index.html": "./index.html",
+    "main.98f23760.css.map": "./static/css/main.98f23760.css.map",
+    "main.3eed37df.js.map": "./static/js/main.3eed37df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98f23760.css",
+    "static/js/main.3eed37df.js"
+  ]
+}
